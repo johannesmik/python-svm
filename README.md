@@ -1,8 +1,8 @@
 This was a project I did for the Machine Learning course at Technical University Munich in 2014.
 
-** This project is not maintained **
+**This project is not maintained**
 
-For this project I wrote a Support Vector Machine in Python from scratch, and then used it to detect letters in the [Letter Image Recognition Dataset](http://archive.ics.uci.edu/ml/datasets/Letter+Recognition). Result:  After training the SVM using a 10-fold cross-validation, the resulting error rate was 6.5% on the testing data.
+I wrote a Support Vector Machine in Python from scratch, and then used it to detect letters in the [Letter Image Recognition Dataset](http://archive.ics.uci.edu/ml/datasets/Letter+Recognition). Result:  After training the SVM using a 10-fold cross-validation, the resulting error rate was 6.5% on the testing data.
 
 # Dependencies
 
